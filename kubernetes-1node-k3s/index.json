@@ -1,5 +1,5 @@
 {
-  "title": "Kubernetes K3s 1node",
+  "title": "Kubernetes K3s 1node 4GB",
   "description": "Use a simple one node K3s cluster and let user list all pods",
   "details": {
     "intro": {
@@ -16,6 +16,6 @@
     }
   },
   "backend": {
-    "imageid": "kubernetes-k3s-1node"
+    "imageid": "kubernetes-k3s-1node-4GB"
   }
 }
